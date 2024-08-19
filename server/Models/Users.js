@@ -18,3 +18,4 @@ const UserSchema = new mongoose.Schema({
 
 const UserModel = mongoose.model("users", UserSchema);
 module.exports = UserModel;
+// this is just and example to show how git works
